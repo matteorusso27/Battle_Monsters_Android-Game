@@ -1,17 +1,18 @@
 # Battle_Monsters-Android-Game-
 Project developed for the Mobile Application and Cloud Computing course at La Sapienza University of Rome.
-
+----Code will be available soon----
 The Multiclient game exploits the Firebase Cloud system and a server located on pythonanywhere 
 
 Developers: Matteo Russo, Paolo Tarantino.
 
 Lobby demo:
 
-![Alt Text](https://github.com/matteorusso27/Battle_Monsters-Android-Game-/blob/main/src_for_github/lobby.gif)
+![lobby](https://user-images.githubusercontent.com/34214134/124245710-87e06a80-db20-11eb-8195-b6b310e3dbcd.gif)
 
 Battle Demo:
 
-![Alt Text](https://github.com/matteorusso27/Battle_Monsters-Android-Game-/blob/main/src_for_github/battle.gif)
+![battle](https://user-images.githubusercontent.com/34214134/124245731-8c0c8800-db20-11eb-83f0-0ef5bcef6157.gif)
+
 
 Full Demo
 
